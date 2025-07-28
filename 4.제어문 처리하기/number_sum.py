@@ -4,7 +4,7 @@ while True:
     total = 0
     numbers_entered = []
     
-    print("---  0 입력 시까지 숫자 더하기 ---")
+    print("--- 0 입력 시까지 숫자 더하기 ---")
     
     # 숫자 입력을 받기 위한 내부 루프
     while True:
